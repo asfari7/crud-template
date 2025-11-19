@@ -22,7 +22,7 @@ export default async function page({
             type='number'
             id='product-price'
             placeholder='Masukkan harga produk'
-          />{" "}
+          />
           <label className='font-medium' htmlFor='product-price'>
             Harga Produk
           </label>
